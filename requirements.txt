@@ -1,0 +1,14 @@
+earthengine-api
+pandas
+geopandas
+xgboost
+streamlit
+matplotlib
+folium
+streamlit-folium
+numpy
+scikit-learn
+pyproj
+shapely
+torch
+requests
